@@ -1,10 +1,8 @@
-# NEO CLOUD TECHNOLOGY QUESTION BANK SYSTEM (NCT QUESTION BANK)
+# CBT Platform & Exam Management System
 
 ## 📘 Project Description
 
-This is a web-based application developed for Neo Cloud to manage and streamline the process of uploading and administering Computer-Based Tests (CBT).
-
-The platform includes a wide range of features designed to ensure secure, user-friendly, and scalable testing workflows.
+A comprehensive, full-stack web application designed to manage and streamline the administration of Computer-Based Tests (CBT). This system provides a secure, user-friendly, and scalable solution for question bank management, administrative oversight, and real-world examination simulations.
 
 ## ✨ Key Features
 
